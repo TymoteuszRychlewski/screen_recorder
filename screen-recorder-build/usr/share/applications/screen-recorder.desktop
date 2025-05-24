@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Screen Recorder
+Exec=screen-recorder
+Icon=screen-recorder
+Terminal=false
+Categories=Video;Utility;
